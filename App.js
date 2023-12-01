@@ -83,6 +83,7 @@ const styles = StyleSheet.create({
     justifyContent:"start",
     alignItems:"center"
   },
+  
   InpContainer:{
     flexDirection:"row",
     alignItems:"center",
